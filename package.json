@@ -1,0 +1,22 @@
+{
+  "name": "temporary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "my.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-eslint": "8.0.1",
+    "eslint": "4.8.0",
+    "eslint-config-airbnb-base": "12.0.2",
+    "eslint-plugin-import": "2.7.0",
+    "eslint-plugin-no-loops": "0.3.0",
+    "eslint-plugin-no-typeof-undefined": "git+https://github.com/jaygood/eslint-plugin-no-typeof-undefined.git",
+    "express": "4.16.1"
+  }
+}
